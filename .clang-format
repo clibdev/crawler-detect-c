@@ -1,0 +1,16 @@
+Language: Cpp
+BasedOnStyle: Google
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AlignConsecutiveMacros: Consecutive
+BinPackParameters: OnePerLine
+ColumnLimit: 120
+DerivePointerAlignment: false
+IncludeBlocks: Merge
+IndentWidth: 4
+InsertNewlineAtEOF: true
+LineEnding: LF
+PointerAlignment: Right
+SpaceAfterCStyleCast: true
+BreakStringLiterals: false
+PenaltyBreakAssignment: 100
